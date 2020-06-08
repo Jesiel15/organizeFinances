@@ -1,0 +1,7 @@
+{
+  "name": "organizeFinance",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
